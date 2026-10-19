@@ -1,0 +1,2 @@
+Private notes of Zhumakhan Zhassulan (IT2-2308).
+Only the owner can read and write this file (chmod 600).

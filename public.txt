@@ -1,0 +1,2 @@
+Public information: DevOps project of Zhumakhan Zhassulan (IT2-2308, IITU).
+The owner can read and write; group and others can only read (chmod 644).

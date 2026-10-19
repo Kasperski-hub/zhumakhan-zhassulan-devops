@@ -1,0 +1,6 @@
+Name: Zhassulan
+Surname: Zhumakhan
+Group: IT2-2308
+Student ID: 37359
+Course: DevOps
+University: IITU
