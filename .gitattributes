@@ -1,0 +1,2 @@
+# Keep Linux line endings so shell scripts run correctly
+* text=auto eol=lf
