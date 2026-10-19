@@ -1,0 +1,15 @@
+services:
+  app:
+    build: .
+    image: zhumakhan-zhassulan-devops
+    container_name: zhumakhan-zhassulan-container
+    environment:
+      STUDENT_NAME: Zhassulan
+      STUDENT_SURNAME: Zhumakhan
+      STUDENT_GROUP: IT2-2308
+      STUDENT_ID: "37359"
+      SERVE: "true"
+      APP_PORT: "8000"
+    ports:
+      - "8000:8000"
+    restart: unless-stopped

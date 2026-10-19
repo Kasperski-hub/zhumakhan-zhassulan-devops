@@ -1,0 +1,9 @@
+.git
+.gitignore
+.env
+logs/
+backup/
+*.log
+*.md
+Jenkinsfile
+docker-compose.yml
